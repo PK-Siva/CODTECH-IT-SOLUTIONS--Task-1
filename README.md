@@ -4,7 +4,9 @@ Name : SIVA PERIYASAMY KAVITHA
 Company : CODTECH IT SOLUTIONS 
 Intern ID :CT08DS410  
 Domain : Artificial Intelligence 
+
 Duration :  DECEMBER 5th, 2024 to JANUARY 5th, 2025. 
+
 Mentor : Muzammil
 
 OVERVIEW OF THE PROJECT
